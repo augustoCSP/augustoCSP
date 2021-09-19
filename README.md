@@ -29,7 +29,5 @@
 <img align='center' alt='Augusto-Js' height='50' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 <img align='center' alt='Augusto-Js' height='50' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align='center' alt='Augusto-Js' height='50' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-
-
-
 </div>
+<img src='https://thumbs.gfycat.com/SpectacularFinishedBasilisk-size_restricted.gif'>

@@ -9,7 +9,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustoCSP&hide=contribs,prs)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustoCSP&theme=dark&show_icons=true)
 

@@ -20,7 +20,10 @@
 <img align='center' alt='Augusto-Js' height='50' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align='center' alt='Augusto-Js' height='50' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
-<div style=float:"lefth">
+<div style='float: left'>
 <img src='https://media0.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif'>
   </div>
+  </div>
+<div style='float: left'>
 <img src='https://c.tenor.com/TbTe1Nc6j34AAAAC/hacker-hackerman.gif'>
+</div>

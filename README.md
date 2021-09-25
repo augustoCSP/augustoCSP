@@ -1,6 +1,11 @@
 ### Salve Rapeize👋
 
-<img src='https://github-readme-stats.vercel.app/api?username=augustoCSP&theme=blue-green&show_icons=true>
+div>
+  
+<a href="https://github.com/augustocsp">
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustocsp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ 
 
 
 <div style='display: inline_block'><br>

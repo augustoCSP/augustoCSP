@@ -1,6 +1,6 @@
 ### Salve Rapeize👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustoCSP&theme=blue-green&show_icons=true)
+<img src='https://github-readme-stats.vercel.app/api?username=augustoCSP&theme=blue-green&show_icons=true>
 
 
 <div style='display: inline_block'><br>

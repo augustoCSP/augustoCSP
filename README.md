@@ -25,7 +25,7 @@
 <!-- <img  src='https://media0.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif' style= 'width:40%' > -->
 <!-- </div> --> 
 <img height="200" src='https://media0.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif'>
-<img  src='https://share-cdn.picrew.me/shareImg/org/202109/197705_dmLJRYfF.png'  >
+<img  src='https://share-cdn.picrew.me/shareImg/org/202109/197705_dmLJRYfF.png' 'width:40%' >
 
 
 

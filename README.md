@@ -22,8 +22,14 @@
 <img align='center' alt='Augusto-Js' height='50' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 <div style='float:left'>
-<img ' src='https://media0.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif' style= 'width:40%' >
+<img  src='https://media0.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif' style= 'width:40%' >
 </div>
 <div style='float: right'>
 <img  src='https://share-cdn.picrew.me/shareImg/org/202109/197705_dmLJRYfF.png' style= 'width:40%' >
 </div>
+<img height="70" src="https://media3.giphy.com/media/eK12uCsrAh4wmTXejp/giphy.gif?cid=ecf05e47yopswrtfv6dkloohin8mv8i9hxknf6nqx7uc7as8&rid=giphy.gif&ct=g">
+
+
+
+
+

@@ -22,7 +22,7 @@
 <img align='center' alt='Augusto-Js' height='50' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 <!-- <div style='float:left'>
-<!-- <img  src='https://media0.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif' style= 'width:40%' > -->
+<img src='https://media0.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif' style= 'width:40%'>
 <!-- </div> --> 
 <img height="200" src='https://media0.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif'>
 <img  src='https://share-cdn.picrew.me/shareImg/org/202109/197705_dmLJRYfF.png'style= 'width:40%' >
